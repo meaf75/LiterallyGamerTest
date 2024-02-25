@@ -1,6 +1,6 @@
 # Live demo
 
-Puedes probar el proyecto con esta url: meaf75.com
+Puedes probar el proyecto con esta url (Usar navegador con la opcion "Hardware acceleration" activada es recomendado): [https://literallygamer.web.app/](https://literallygamer.web.app/)
 
 	This repository is using Git lfs for binary files
 	Unity version: 2020.3.14f1
